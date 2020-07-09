@@ -7,8 +7,8 @@
 
 ## Wallace Willer Jeronimo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-- :office_worker: Trabalhando como Desenvolvedor .NET **AeC Contact Center**
-- :blue_heart: Techs: .NET, Javascript, Node.js e React.js
+- :office_worker: Trabalhando como Desenvolvedor .NET na **AeC Contact Center**
+- :blue_heart: Tecnologias: .NET, Javascript, Node.js e React.js
 
 > :octocat: 
 
