@@ -5,7 +5,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5512988344336&text=Olá!)](https://api.whatsapp.com/send?phone=553183599914&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:walldba@gmail.com)](mailto:wallacedba@gmail.com)
 
-## Wallace Willer Jeronimo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+## Wallace Willer Jeronimo
 
 - :blue_heart: Tecnologias: .NET, Javascript, Node.js e React.js
 
