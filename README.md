@@ -7,7 +7,7 @@
 
 ## Wallace Willer Jeronimo
 
-- :blue_heart: Tecnologias: .NET, Javascript, Node.js e React.js
+- :blue_heart: Tecnologias: NodeJs, Javascript e Typescript
 
 > :octocat: 
 
